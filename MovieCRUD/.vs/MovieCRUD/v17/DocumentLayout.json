@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\extensions\\extensionmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\extensions\\extensionmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\dataaccess\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\dataaccess\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\moviecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\moviecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|d:\\github projects\\examtime\\moviecrud\\moviecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859D1FFD-5710-4295-82AD-5318585C46E3}|MovieCRUD\\MovieCRUD.csproj|solutionrelative:moviecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtensionModels.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Extensions\\ExtensionModels.cs",
+              "RelativeDocumentMoniker": "MovieCRUD\\Extensions\\ExtensionModels.cs",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Extensions\\ExtensionModels.cs",
+              "RelativeToolTip": "MovieCRUD\\Extensions\\ExtensionModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:12:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieCRUD\\Services\\IMovieService.cs",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Services\\IMovieService.cs",
+              "RelativeToolTip": "MovieCRUD\\Services\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:56:23.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieCRUD\\Services\\MovieService.cs",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Services\\MovieService.cs",
+              "RelativeToolTip": "MovieCRUD\\Services\\MovieService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:55:30.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieCRUD\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieCRUD\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:38:23.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieCRUD\\Repositories\\MovieRepository.cs",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "MovieCRUD\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:37:49.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\DTOs\\MovieDto.cs",
+              "RelativeDocumentMoniker": "MovieCRUD\\DTOs\\MovieDto.cs",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\DTOs\\MovieDto.cs",
+              "RelativeToolTip": "MovieCRUD\\DTOs\\MovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:30:58.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\DataAccess\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieCRUD\\DataAccess\\Entities\\Movie.cs",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\DataAccess\\Entities\\Movie.cs",
+              "RelativeToolTip": "MovieCRUD\\DataAccess\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:27:21.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieCRUD",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\MovieCRUD.csproj",
+              "RelativeDocumentMoniker": "MovieCRUD\\MovieCRUD.csproj",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\MovieCRUD.csproj",
+              "RelativeToolTip": "MovieCRUD\\MovieCRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T15:23:14.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "MovieCRUD\\Program.cs",
+              "ToolTip": "D:\\GitHub Projects\\ExamTime\\MovieCRUD\\MovieCRUD\\Program.cs",
+              "RelativeToolTip": "MovieCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:21:57.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

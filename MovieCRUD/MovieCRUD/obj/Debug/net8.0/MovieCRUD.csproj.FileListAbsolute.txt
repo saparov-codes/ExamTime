@@ -1,0 +1,14 @@
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\MovieCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\MovieCRUD.AssemblyInfoInputs.cache
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\MovieCRUD.AssemblyInfo.cs
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\MovieCRUD.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\bin\Debug\net8.0\MovieCRUD.exe
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\bin\Debug\net8.0\MovieCRUD.deps.json
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\bin\Debug\net8.0\MovieCRUD.runtimeconfig.json
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\bin\Debug\net8.0\MovieCRUD.dll
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\bin\Debug\net8.0\MovieCRUD.pdb
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\MovieCRUD.dll
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\refint\MovieCRUD.dll
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\MovieCRUD.pdb
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\MovieCRUD.genruntimeconfig.cache
+D:\GitHub Projects\ExamTime\MovieCRUD\MovieCRUD\obj\Debug\net8.0\ref\MovieCRUD.dll
